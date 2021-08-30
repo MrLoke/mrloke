@@ -6,7 +6,7 @@ I'm Michał Grzesiak - young Front End Developer. I spend most of my time coding
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-grzesiak-b36abb213/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MichalDev00)
-[![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![michalgkontakt](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)]
 <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
 ### Main technologies:
