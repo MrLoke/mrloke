@@ -2,6 +2,9 @@
 
 I'm Michał Grzesiak - young Front End Developer. I spend most of my time coding or learning something new cool things.
 
+- 🔭 I’m currently working on League of Legends app tracker
+- 🌱 I’m currently learning Server Side Rendering and TypeScript
+
 ### Contact:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-grzesiak-b36abb213/)
