@@ -2,7 +2,6 @@
 
 I'm Michał Grzesiak - young Front End Developer. I spend most of my time coding or learning something new cool things.
 
-- 🔭 I’m currently working on music streaming app for education
 - 🌱 I’m currently learning Server Side Rendering and TypeScript
 
 ### Contact:
