@@ -57,7 +57,7 @@ I'm Michał Grzesiak - young Front End Developer. I spend most of my time coding
 <img align="left" alt="firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />
 </a>
 <a href="https://eslint.org" rel="nofollow">
-<img align="left" alt="eslint" width="30px" src="https://camo.githubusercontent.com/6e11efbccaebdfc30b60aae7660bf31ee585e1486ef39ecda8ffe3aafdd88277/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f652f65332f45534c696e745f6c6f676f2e7376672f3132303070782d45534c696e745f6c6f676f2e7376672e706e67" />
+<img align="left" alt="eslint" width="30px" src="https://camo.githubusercontent.com/ccfc8cb3ef6c9bb09f03c375395ade9787eb052a4545c1b3b5a230daab42fcad/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3732342f302a6a3851494a466857386a3931653543642e706e67" />
 </a>
 <a href="https://prettier.io" rel="nofollow">
 <img align="left" alt="prettier" width="30px" src="https://camo.githubusercontent.com/dff60c3322fc0645c42441b218ce565be5d14b528ac4d79247baa547b4977d1f/68747470733a2f2f70726574746965722e696f2f69636f6e2e706e67" />
