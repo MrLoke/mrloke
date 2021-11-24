@@ -35,8 +35,7 @@ I'm Michał Grzesiak - young Front End Developer. I spend most of my time coding
 <img align="left" alt="typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 </a>
 <a href="https://tailwindcss.com" rel="nofollow">
-<img align="left" alt="typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png
-" />
+<img align="left" alt="typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 </a>
 </a>
 <a href="https://styled-components.com/" rel="nofollow">
