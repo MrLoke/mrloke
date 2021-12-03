@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Michał
 
-I'm Michał Grzesiak - young Front End Developer. I spend most of my time coding or learning something new cool things.
-
-- 🌱 I’m currently learning Server Side Rendering and TypeScript
+A young front-end developer working in React (Next.js 😍). I spend most of my time coding or learning something new cool things.
 
 ### Contact:
 
