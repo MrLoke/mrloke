@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Michał
 
-A young front-end developer working in React (Next.js 😍). I spend most of my time coding or learning something new cool things.
+A young front-end developer working in React (Next.js 😍) with TypeScript 😎. I spend most of my time coding or learning something new cool things 🤓.
 
 ### Contact:
 
