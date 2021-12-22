@@ -23,7 +23,7 @@ A young front-end developer coding in React (Next.js 😍) with TypeScript 😎.
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </a>
 <a href="https://nextjs.org" rel="nofollow">
-<img align="left" alt="nextjs" width="30px" src="https://camo.githubusercontent.com/f65d614c5734b955cdaa549babba1b19924adc13d346bf790884192639525d5e/68747470733a2f2f626f72696e676f776c2e696f2f77702d636f6e74656e742f75706c6f6164732f323032302f30332f6e6578742d6a732d6672616d65776f726b2d333030783330302e6a7067" />
+<img align="left" alt="nextjs" width="30px" src="https://camo.githubusercontent.com/b012b22cd6c78650ae173e26f5838f38916ec7fd128c768deea553039473d547/68747470733a2f2f692e6962622e636f2f516e726634516e2f4672616d652d32362e706e67" />
 </a>
 <a href="https://redux.js.org" rel="nofollow">
 <img align="left" alt="redux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
