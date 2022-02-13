@@ -5,7 +5,6 @@ A young front-end developer coding in React (Next.js 😍) with TypeScript 😎.
 ### Contact:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-grzesiak-b36abb213/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MichalDev00)
 [![gmail](https://img.shields.io/badge/michalgkontakt-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ### Main technologies:
