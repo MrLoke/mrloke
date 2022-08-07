@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Michał
-
-Front-end developer working mainly in React with Typescript.
+### Front-end developer working mainly in React with Typescript.
 
 ### Contact:
 
