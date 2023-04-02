@@ -1,9 +1,4 @@
-### Front-end developer working mainly in React with Typescript.
-
-### Contact
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-grzesiak-b36abb213/)
-[![gmail](https://img.shields.io/badge/michalgkontakt-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+### Front-end/Mobile developer working mainly in React/React Native with Typescript 😎.
 
 <!--
 **MrLoke/mrloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
