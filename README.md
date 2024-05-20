@@ -1,5 +1,5 @@
 ### Front-end/Mobile developer working mainly in React/React Native with Typescript 😎.
-## Passionate about programming in Python after working hours and learning algorithms and engineering thinking 🧑‍💻 .
+#### Passionate about programming in Python after working hours and learning algorithms and engineering thinking 🧑‍💻 .
 <!--
 **MrLoke/mrloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
