@@ -1,5 +1,7 @@
-### Front-end/Mobile developer working mainly in React.js/Next.js/React Native with TypeScript 😎.
-#### Passionate about front-end technologies 🧑‍💻.
+### Front-end developer working mainly in React.js / Next.js with TypeScript 😎.
+#### Passionate about front-end technologies 🖥️.
+
+- 👨‍💻 I’m currently working on Voxio.app 🦊
 <!--
 **MrLoke/mrloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
