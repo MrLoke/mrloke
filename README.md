@@ -1,5 +1,5 @@
-### Front-end developer working mainly in React.js / Next.js with TypeScript 😎.
-#### Passionate about front-end technologies 🖥️.
+### Front-end/Mobile developer working mainly in React.js / React Native / Next.js with TypeScript 😎.
+#### Passionate about front-end and mobiles technologies 🖥️📱.
 
 <!--
 **MrLoke/mrloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
